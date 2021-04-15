@@ -9,6 +9,7 @@ o	10-fold cross-validation techniques was used to validate the model
 o	Includes FastAi, Keras.
 3. Tool
 o Google Colab
+
 II. WorkFlow
   1. Cleaning Dataset
   2. Visualize and Analysis
